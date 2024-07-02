@@ -1,0 +1,10 @@
+{
+  "headers": [
+    {
+      "source": "/test.js",
+      "headers": [
+        { "key": "Content-Type", "value": "application/javascript" }
+      ]
+    }
+  ]
+}
